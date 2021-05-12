@@ -1,0 +1,104 @@
+@import url('font-awesome.css');
+*{
+	margin:0px;
+	padding:0px;
+	font-family: Lemonada; 
+}
+
+/*titulo*/
+
+div#titulo{
+	width:100%;
+	margin-top:100px;
+}
+
+p#header{
+	text-align: center;
+	font-size: 2.5em;
+	color:#9a9a9a;
+}
+
+p#subheader{
+	text-align: center;
+	color:#cecece;
+	margin-top:20px;
+	font-size: 1.3em;
+}
+
+header{
+	margin:100px auto;
+	width:1200px;
+	height:230px;
+	background-color: red;
+}
+
+div.contenedor{
+	width: 200px;
+	height: 300px;
+	float:left;
+	-webkit-transition: height .4s;
+}
+
+div#uno{
+	background-color: #af0803;
+}
+
+
+div#dos{
+	background-color: #960702;
+}
+
+div#tres{
+	background-color: #7d0602;  
+}
+
+div#cuatro{
+	background-color: #640502;
+}
+
+div#cinco{
+	background-color: #4b0401;
+}
+
+div#seis{
+	background-color: #320201;
+}
+
+
+img.icon{
+  display: block;
+  margin:50px auto;
+  background-color: rgba(255,255,255,.15);
+  width:40px;
+  padding:20px;
+  -webkit-border-radius: 50%;
+  -webkit-box-shadow: 0px 0px 0px 30px rgba(255,255,255,0);
+  -webkit-transition:box-shadow .4s;
+}
+
+
+p.texto{
+	font-size: 1em;
+	color:white;
+	text-align: center;
+	padding-top:7px;
+	opacity: .6;
+	-webkit-transition: padding-top .4s;
+}
+
+div.contenedor:hover{
+	height:350px;
+}
+
+div.contenedor:hover p.texto{
+	padding-top: 30px;
+	opacity: 1;
+}
+
+div.contenedor:hover img.icon{
+	-webkit-box-shadow:0px 0px 0px 0px rgba(255,255,255,.6);
+}
+
+
+
+
