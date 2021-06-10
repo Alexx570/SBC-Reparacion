@@ -300,7 +300,13 @@
 					</tr>
 				<?php } ?>
 				</table>
-				<br><br><br>
+				<br>
+				<div align="center">
+					<a href="index">
+						<button name="sub" class="btn btn-lg">Volver</button>
+					</a>
+				</div>
+				<br><br>
 			</div>
 		</div>
 	</div>
