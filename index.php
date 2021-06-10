@@ -6,6 +6,7 @@
 	<script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.js"></script>
 	<script type="text/javascript" src="js/ocultar.js"></script>
 
+
 	<?php include "php/source/metas.html";?>
 </head>
 <body>
@@ -19,6 +20,7 @@
 		</div>
 	</center>
 		<?php include "php/views/datos.php"; ?>
+		<script type="text/javascript" src="js/datos.js"></script>
 </body>
 </html>
 </body>

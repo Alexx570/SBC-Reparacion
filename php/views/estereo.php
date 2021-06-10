@@ -64,6 +64,16 @@
 							}?>
 						</td>
 					</tr>
+					<tr>
+						<td align="center" colspan="2">
+							<h4>Posibles causas</h4>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" colspan="2">
+							<p>swds</p>
+						</td>
+					</tr>
 				</table>
 			</div>
 		</div>
