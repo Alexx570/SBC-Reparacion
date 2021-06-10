@@ -43,7 +43,7 @@
 					</tr>
 					<tr>
 						<td align="center">
-							<h4>Falla seleccionadas:</h4>
+							<h4>Falla seleccionada:</h4>
 						</td>
 						<td style="width:300px;" align="center">
 							<?php
@@ -78,6 +78,11 @@
 						</td>
 					</tr>
 					<tr>
+						<td align="center" colspan="2">
+							<h4>Posibles soluciones</h4>
+						</td>
+					</tr>
+					<tr>
 						<td align="justify" colspan="2">
 							<b>Solución 1: </b><br>
 							<p>Revisar sin corriente electríca que los diodos tengan una impedancia de 15 Ohms en sentido  negativo a positivo,  cambiar el que no lo cumpla.
@@ -100,6 +105,11 @@
 							<p>Capacitor C305 10uF a 15VCD sin aceite dielectríco.</p>
 							<b>Causa 2: </b><br>
 							<p>Circuito integrado IC301 abierto.</p>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" colspan="2">
+							<h4>Posibles soluciones</h4>
 						</td>
 					</tr>
 					<tr>
@@ -128,6 +138,11 @@
 						</td>
 					</tr>
 					<tr>
+						<td align="center" colspan="2">
+							<h4>Posibles soluciones</h4>
+						</td>
+					</tr>
+					<tr>
 						<td align="justify" colspan="2">
 							<b>Solución 1: </b><br>
 							<p>Sí tenemos 11 VCD en el pin 6 (entrada) en el circuito integrado pero no los 5.6 VCD en las salidas, es necesario reemplazar el circuito.</p>
@@ -149,6 +164,11 @@
 							<p>Falla del transistor TR251 (2SC582) Salida de audio.</p>
 							<b>Causa 2: </b><br>
 							<p>Resistencia R204 de 47K dañada por pico de voltaje o por el uso.</p>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" colspan="2">
+							<h4>Posibles soluciones</h4>
 						</td>
 					</tr>
 					<tr>
@@ -174,6 +194,11 @@
 							<b>Causa</b><br>
 							<p>No se activa el Relay RY601 por la apertura del diodo 601 o del transistor drive Q644 (2SC3211A).
 							</p>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" colspan="2">
+							<h4>Posibles soluciones</h4>
 						</td>
 					</tr>
 					<tr>
@@ -203,6 +228,11 @@
 						</td>
 					</tr>
 					<tr>
+						<td align="center" colspan="2">
+							<h4>Posibles soluciones</h4>
+						</td>
+					</tr>
+					<tr>
 						<td align="justify" colspan="2">
 							<b>Solución 1: </b><br>
 							<p>Revisar la resistencia RO02, si no ofrece 2.2 VCD de alimentación reemplazarla por una de la misma impedancia.</p>
@@ -227,6 +257,11 @@
 						</td>
 					</tr>
 					<tr>
+						<td align="center" colspan="2">
+							<h4>Posibles soluciones</h4>
+						</td>
+					</tr>
+					<tr>
 						<td align="justify" colspan="2">
 							<b>Solución 1: </b><br>
 							<p>Sí tenemos 11 VCD en el pin 6 (entrada) en el circuito integrado pero no los 5.6 VCD en las salidas, es necesario reemplazar el circuito.</p>
@@ -248,6 +283,11 @@
 							<p>Falla del transistor TR251 (2SC582) Salida de audio.</p>
 							<b>Causa 2: </b><br>
 							<p>Resistencia R204 de 47K dañada por pico de voltaje o por el uso.</p>
+						</td>
+					</tr>
+					<tr>
+						<td align="center" colspan="2">
+							<h4>Posibles soluciones</h4>
 						</td>
 					</tr>
 					<tr>
